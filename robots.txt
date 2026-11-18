@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ats-business-hub.github.io/online-school-guide/sitemap.xml
