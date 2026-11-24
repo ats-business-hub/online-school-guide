@@ -416,3 +416,14 @@ img.vc-beacon {
 .next-step ul { margin: 0.3rem 0 0.8rem; }
 .next-step-jump { margin: 0 0 1rem; font-size: 0.92rem; }
 .next-step-jump a { display: inline-block; padding: 0.35rem 0; font-weight: 700; }
+
+.aff-banner {
+  margin: 0.8rem 0 0.2rem;
+  max-width: 100%;
+  overflow: auto;
+}
+.aff-banner img,
+.aff-banner iframe {
+  max-width: 100%;
+  height: auto;
+}
