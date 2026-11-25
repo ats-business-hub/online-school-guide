@@ -268,7 +268,7 @@ a.card:hover { border-color: var(--teal); }
   color: var(--navy-deep);
   margin: 0 0 0.6rem;
 }
-.pr-notice, .caution {
+.pr-notice, .pr-disclose, .caution {
   background: var(--pr-bg);
   border-left: 4px solid var(--warn-line);
   padding: 0.85rem 1rem;
@@ -399,6 +399,7 @@ img.vc-beacon {
   border-left: 4px solid var(--accent);
   border-radius: var(--radius);
 }
+#zkai-vc { scroll-margin-top: 6.5rem; }
 .aff-placeholder p { margin: 0.35rem 0; }
 .aff-placeholder strong { color: var(--ink); }
 
